@@ -77,7 +77,7 @@ GA-LSTM/
 │
 ├── GA-LSTM.py        # Main implementation (GA + LSTM)
 ├── README.md         # Project documentation
-└── (optional future files: saved models, plots, configs)
+
 ```
 
 ---
