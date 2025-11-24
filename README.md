@@ -1,9 +1,4 @@
-Sure — here is a clean, professional **English README.md** for your GA-LSTM project.
-You can copy-paste it directly into GitHub.
 
----
-
-````markdown
 # GA-LSTM: Time Series Forecasting with Genetic Algorithm Optimization
 
 GA-LSTM is an intelligent time-series forecasting framework that combines **Long Short-Term Memory (LSTM)** neural networks with a **Genetic Algorithm (GA)** to automatically optimize hyperparameters.  
